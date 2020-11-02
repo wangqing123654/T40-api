@@ -1,0 +1,67 @@
+[PropertyInfo]
+block,int[],false,false, , ,true,<default>
+CTable,com.dongyang.tui.text.ui.CTable,false,false, , ,true,<default>
+defaultStyle,com.dongyang.tui.text.DStyle,false,false, , ,true,<default>
+DString,com.dongyang.tui.text.DString,false,false, , ,true,<default>
+end,int,false,false, , ,true,<default>
+endBlock,com.dongyang.tui.text.IBlock,false,false, , ,true,<default>
+endRow,int,false,false, , ,true,<default>
+endText,com.dongyang.tui.text.EText,false,false, , ,true,<default>
+focus,com.dongyang.tui.text.EComponent,false,false, , ,true,<default>
+focusIndex,int,false,false, , ,true,<default>
+focusManager,com.dongyang.tui.text.MFocus,false,false, , ,true,<default>
+focusPointX,int,false,false, , ,true,<default>
+height,int,false,false, , ,true,<default>
+homeBlock,com.dongyang.tui.text.IBlock,false,false, , ,true,<default>
+homeText,com.dongyang.tui.text.EText,false,false, , ,true,<default>
+indexString,String,false,false, , ,true,<default>
+indexWidth,int[],false,false, , ,true,<default>
+length,int,false,false, , ,true,<default>
+location,int[],false,false, , ,true,<default>
+modify,boolean,false,false, , ,true,<default>
+nextBlock,com.dongyang.tui.text.IBlock,false,false, , ,true,<default>
+nextComponent,com.dongyang.tui.text.EComponent,false,false, , ,true,<default>
+nextRowHomeBlock,com.dongyang.tui.text.IBlock,false,false, , ,true,<default>
+nextText,com.dongyang.tui.text.EText,false,false, , ,true,<default>
+page,com.dongyang.tui.text.EPage,false,false, , ,true,<default>
+pageIndex,int,false,false, , ,true,<default>
+panel,com.dongyang.tui.text.EPanel,false,false, , ,true,<default>
+parent,com.dongyang.tui.text.EComponent,false,false, , ,true,<default>
+path,com.dongyang.util.TList,false,false, , ,true,<default>
+pathIndex,com.dongyang.util.TList,false,false, , ,true,<default>
+PM,com.dongyang.tui.text.PM,false,false, , ,true,<default>
+position,int,false,false, , ,true,<default>
+previousComponent,com.dongyang.tui.text.EComponent,false,false, , ,true,<default>
+previousRowHomeBlock,com.dongyang.tui.text.IBlock,false,false, , ,true,<default>
+previousText,com.dongyang.tui.text.EText,false,false, , ,true,<default>
+row,int,false,false, , ,true,<default>
+rowIndex,int,false,false, , ,true,<default>
+selectedIndex,int,false,false, , ,true,<default>
+selectedIndex,int[],false,false, , ,true,<default>
+selectedState,int,false,false, , ,true,<default>
+selectedState,boolean,false,false, , ,true,<default>
+selectEndIndex,int,false,false, , ,true,<default>
+selectIndex,int,false,false, , ,true,<default>
+separateNewText,com.dongyang.tui.text.EText[],false,false, , ,true,<default>
+showCursor,boolean,false,false, , ,true,<default>
+start,int,false,false, , ,true,<default>
+startFocus,com.dongyang.tui.text.EComponent,false,false, , ,true,<default>
+startFocusIndex,int,false,false, , ,true,<default>
+string,String,false,false, , ,true,<default>
+string,String[],false,false, , ,true,<default>
+style,com.dongyang.tui.text.DStyle,false,false, , ,true,<default>
+style,int,false,false, , ,true,<default>
+styleManager,com.dongyang.tui.text.MStyle,false,false, , ,true,<default>
+table,com.dongyang.tui.text.ETable,false,false, , ,true,<default>
+TD,com.dongyang.tui.text.ETD,false,false, , ,true,<default>
+TR,com.dongyang.tui.text.ETR,false,false, , ,true,<default>
+TRModel,com.dongyang.tui.text.ETRModel,false,false, , ,true,<default>
+viewManager,com.dongyang.tui.text.MView,false,false, , ,true,<default>
+width,int,false,false, , ,true,<default>
+x,int,false,false, , ,true,<default>
+y,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

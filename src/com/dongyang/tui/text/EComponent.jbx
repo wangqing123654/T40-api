@@ -1,0 +1,14 @@
+[PropertyInfo]
+height,int,false,false, , ,true,<default>
+location,int[],false,false, , ,true,<default>
+modify,boolean,false,false, , ,true,<default>
+page,com.dongyang.tui.text.EPage,false,false, , ,true,<default>
+parent,com.dongyang.tui.text.EComponent,false,false, , ,true,<default>
+width,int,false,false, , ,true,<default>
+x,int,false,false, , ,true,<default>
+y,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

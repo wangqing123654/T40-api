@@ -1,0 +1,25 @@
+[PropertyInfo]
+columns,String[],false,false, , ,true,<default>
+columnType,String[],false,false, , ,true,<default>
+databaseName,String,false,false, , ,true,<default>
+dbTool,com.dongyang.jdo.TJDODBTool,false,false, , ,false,<default>
+defaultValue,Object[],false,false, , ,true,<default>
+deletedParm,com.dongyang.data.TParm,false,false, , ,false,<default>
+errText,String,false,false, , ,true,<default>
+filterParm,com.dongyang.data.TParm,false,false, , ,false,<default>
+IDMax,int,false,false, , ,false,<default>
+isFilter,boolean,false,false, , ,false,<default>
+modifiedParm,com.dongyang.data.TParm,false,false, , ,false,<default>
+orderBy,String,false,false, , ,true,<default>
+owner,String,false,false, , ,true,<default>
+primaryParm,com.dongyang.data.TParm,false,false, , ,false,<default>
+SQL,String,false,false, , ,true,<default>
+tableInfParm,com.dongyang.data.TParm,false,false, , ,false,<default>
+tableName,String,false,false, , ,true,<default>
+updateMode,String,false,false, , ,true,<default>
+where,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+
